@@ -2,8 +2,10 @@ echo "Input no of subjects"
 read n
 i=0
 sum=0
-for((i=0;i<n;i++))
+
+for((i=1;i<=n;i++))
 do 
+	echo "Enter marks $i"
 	read b
 	sum=$(( $sum + $b ))
 done
