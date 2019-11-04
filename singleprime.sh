@@ -1,3 +1,4 @@
+# Check if number is prime or not
 echo "Enter Your No"
 read n 
 i=2

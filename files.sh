@@ -1,3 +1,4 @@
+# Change Permission of file if exists
 echo "The files and their permissions are "
 ls -l /home/18BCI0066
 

@@ -1,3 +1,4 @@
+#Sum of digits of a number
 echo "Enter your no"
 read n 
 m=n 

@@ -1,3 +1,4 @@
+# Display Prime Nos between a given range
 echo "Enter Your Range"
 read n
 i=1

@@ -1,4 +1,5 @@
 #!/bin/bash
+#No is even or Odd
 echo "Enter your range"
 read n
 echo "No entered is $n"
